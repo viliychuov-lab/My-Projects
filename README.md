@@ -14,5 +14,5 @@ This is my portfolio, a collection of notebooks with code and my reasoning.
 Python · SQL · Git · 
 
 ## Контакты
-Telegram: @
+Telegram: @. 
 Email: v.iliychuov@gmail.com
