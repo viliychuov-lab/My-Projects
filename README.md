@@ -6,7 +6,7 @@ This is my portfolio, a collection of notebooks with code and my reasoning.
 
 ## Проекты
 
-### [Анализ падения конверсии сервиса MobiCar (датасет Т-банка)]()
+### [Анализ падения конверсии сервиса MobiCar (датасет Т-банка)](https://github.com/viliychuov-lab/My-Projects/blob/main/MobiCar_case/MobiCar_case_analys.ipynb)
 Cтек: Python, Pandas, NumPy, SciPy, Statsmodels, Excel
 
 Cитуация. За 2 месяца конверсия из cкачивания приложения каршерингового сервиса MobiCar до первой поездки упала на 15%, при этом установки выросли на 10%, а крупных релизов не было, кроме изменений в модуле поиска.
